@@ -2,7 +2,7 @@
 
 A simple portfolio website to showcase your work and projects. <a href="https://dnh4.github.io/portfolio/index.html" target="_blank">Click here to visit</a>
 <div align="center">
-  <a href="https://dnh4.github.io/portfolio/index.html" target="_blank"><img alt="Demo" src="./screenshots/Portfolio-Websites.jpg" /></a>
+  <a href="https://dnh4.github.io/portfolio/index.html" target="_blank"><img alt="Demo" src="./screenshots/Portfolio-Websites.png" /></a>
 </div>
 
 <br/>
